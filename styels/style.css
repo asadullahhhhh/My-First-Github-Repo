@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ddd;
+}
+img{
+    height: 400px;
+    border-radius: 5px 5px 0 0 ;
+    margin-bottom: 20px;
+}
+.main_area{
+    background-color: beige;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.2), -5px 0px 10px rgba(0,0,0,0.2);
+}
+h3{
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
